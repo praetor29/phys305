@@ -37,6 +37,28 @@ parts:
   chapters:
   - file: 07/notes
   - file: 07/lab
+  - file: 07/sol
 - caption: Numerical Integration of Functions
   chapters:
   - file: 08/notes
+  - file: 08/lab
+  - file: 08/sol
+- caption: Root finding
+  chapters:
+  - file: 09/notes
+  - file: 09/lab
+  - file: 09/sol
+- caption: Optimization
+  chapters:
+  - file: 10/notes
+  - file: 10/lab
+  - file: 10/sol
+- caption: Data Modeling I
+  chapters:
+  - file: 11/notes
+  - file: 11/lab
+  - file: 11/sol
+- caption: Data Modeling II
+  chapters:
+  - file: 12/notes
+  - file: 12/lab
