@@ -62,3 +62,36 @@ parts:
   chapters:
   - file: 12/notes
   - file: 12/lab
+  - file: 12/sol
+- caption: Selected techniques in machine learning
+  chapters:
+  - file: 13/slices.pdf
+  - file: 13/lab
+- caption: ODE integrators I
+  chapters:
+  - file: 14/notes
+  - file: 14/lab
+  - file: 14/sol
+- caption: ODE integrators II
+  chapters:
+  - file: 15/notes
+  - file: 15/lab
+  - file: 15/sol
+- caption: ODE integrators III
+  chapters:
+  - file: 16/notes
+  - file: 16/lab
+  - file: 16/sol
+- caption: The C programming language
+  chapters:
+  - file: 17/notes
+  - file: 17/lab
+  - file: 17/sol
+- caption: Monte Carlo I
+  chapters:
+  - file: 18/notes
+  - file: 18/lab
+  - file: 18/sol
+- caption: Monte Carlo II
+  chapters:
+  - file: 19/notes
